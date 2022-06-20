@@ -1,0 +1,38 @@
+{
+	"id": "0124cd90-54e3-a6a5-c2ea-1884866a1143",
+	"name": "User",
+	"description": "",
+	"order": [
+		"adb757c5-5359-720b-4051-57c3eb7080d2"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1652911136863,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "adb757c5-5359-720b-4051-57c3eb7080d2",
+			"headers": "",
+			"headerData": [],
+			"url": "",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "0124cd90-54e3-a6a5-c2ea-1884866a1143",
+			"data": null,
+			"dataMode": "params",
+			"name": "User Requests",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1652936345783,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
