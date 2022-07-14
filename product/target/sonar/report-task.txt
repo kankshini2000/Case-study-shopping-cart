@@ -1,0 +1,6 @@
+projectKey=com.shop:product
+serverUrl=http://localhost:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://localhost:9000/dashboard?id=com.shop%3Aproduct
+ceTaskId=AYHrl1xo2I3S-v_FNanE
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYHrl1xo2I3S-v_FNanE
