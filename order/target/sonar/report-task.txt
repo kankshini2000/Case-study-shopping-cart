@@ -1,0 +1,6 @@
+projectKey=com.shop:order
+serverUrl=http://localhost:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://localhost:9000/dashboard?id=com.shop%3Aorder
+ceTaskId=AYHm5LILkvTQngCDwmTR
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYHm5LILkvTQngCDwmTR

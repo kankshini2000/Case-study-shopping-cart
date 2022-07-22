@@ -1,0 +1,12 @@
+com\shop\product\advice\ApplicationExceptionHandler.class
+com\shop\product\service\SequenceGenerator.class
+com\shop\product\repo\ProductRepo.class
+com\shop\product\model\Product.class
+com\shop\product\model\DatabaseSequence.class
+com\shop\product\control\AdminControl.class
+com\shop\product\control\UserProductControl.class
+com\shop\product\ProductApplication$1.class
+com\shop\product\ProductHandler.class
+com\shop\product\exception\ProductNotFound.class
+com\shop\product\service\ProductService.class
+com\shop\product\ProductApplication.class
